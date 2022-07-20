@@ -769,6 +769,10 @@ h2 {
     font-size: 18px;
 }
 
+.col-sm-12 h2{
+    line-height: 32px;
+}
+
 .col-sm-12 h6{
     font-size: 16px;
     margin-bottom: 15px;
